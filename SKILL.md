@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-beneficiary-first-docs
-description: "Frame API docstrings around caller benefits rather than what the class internally permits." Use this when working on fitzpatrick beneficiary first docs.
+description: "Frame API docstrings around caller benefits rather than what the class internally permits. Use this when working on fitzpatrick beneficiary first docs."
 category: "Writing & Communication"
 triggers:
   - "beneficiary first docs"
